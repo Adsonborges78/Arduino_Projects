@@ -3,10 +3,10 @@ int led2 = 12;
 int led3 = 7;
 int led4 = 2;
 
-int intervalo = 70;
+int interval = 70;
 
 void setup() {
-  // put your setup code here, to run once:
+  // Initializing communication with Arduino:
   Serial.begin(9600);
   pinMode(led1, OUTPUT);
   pinMode(led2, OUTPUT);
@@ -17,23 +17,23 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   digitalWrite(led1, HIGH);
-  delay(intervalo);
+  delay(interval);
   digitalWrite(led1, LOW);
-  delay(intervalo);
+  delay(interval);
 
   digitalWrite(led2, HIGH);
-  delay(intervalo);
+  delay(interval);
   digitalWrite(led2, LOW);
-  delay(intervalo);
+  delay(interval);
 
   digitalWrite(led3, HIGH);
-  delay(intervalo);
+  delay(interval);
   digitalWrite(led3, LOW);
-  delay(intervalo);
+  delay(interval);
 
   digitalWrite(led4, HIGH);
-  delay(intervalo);
+  delay(interval);
   digitalWrite(led4, LOW);
-  delay(intervalo);
+  delay(interval);
 
 }
