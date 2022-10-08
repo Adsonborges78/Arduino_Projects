@@ -7,8 +7,8 @@
 #### Components
   ##### 1 - Arduino Uno
   ##### 1 - Protoboard
-  ##### 4 - Leds 5mm
-  ##### 4 - Resistor 220 Ohms
+  ##### 6 - Leds 5mm
+  ##### 6 - Resistor 220 Ohms
   ##### Jumper
 
 
