@@ -4,5 +4,12 @@
 
 *That said, the programming presented here will turn on the first LED and then turn it off, then it will turn on the second LED and then turn it off, doing the same procedure with all the LEDs, within an infinite loop until the microcontroller is turned off or reprogrammed.*
 
+#### Components
+  ##### 1 - Arduino Uno
+  ##### 1 - Protoboard
+  ##### 4 - Leds 5mm
+  ##### 4 - Resistor 220 Ohms
+  ##### Jumper
+
 
 ![gif_blink4led](https://user-images.githubusercontent.com/97117365/194565344-252a886f-4434-459f-ac5f-7464a2e7747f.gif)
