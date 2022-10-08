@@ -4,4 +4,12 @@
 
 *This program aims to control the LED using the Pushbutton for this purpose. In this sense, by keeping the Pushbutton pressed, the led that is initially off (LOW), changes to an on (HIGH) status.*
 
+#### Components
+  ##### 1 - Arduino Uno
+  ##### 1 - Protoboard
+  ##### 1 - Leds 5mm
+  ##### 1 - Resistor 220 Ohms
+  ##### 1 - Pushbutton
+  ##### Jumpers
+
 ![gif_pushbutton led](https://user-images.githubusercontent.com/97117365/194667179-463848f5-682f-4bc1-99de-de29b37d3e8b.gif)
