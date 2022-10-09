@@ -11,3 +11,5 @@
   ##### 1 - Leds 5mm
   ##### 1 - Resistor 220 Ohms
   ##### Jumpers
+  
+  ![gif_fade](https://user-images.githubusercontent.com/97117365/194760149-3ca35e28-062e-4e89-a99b-4b5398c2a4e0.gif)
