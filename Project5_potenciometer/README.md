@@ -4,7 +4,7 @@
 
 *The potentiometer is used to control the frequency at which an LED flashes.*
 
-*For this, the resistance of the potentiometer is read, and when turning the knob of this component to the right, the speed with which the LED flashes is increased, and the speed with which the LED flashes is decreased by turning the knob of the potentiometer to the left.*
+*For this, the resistance of the potentiometer is read, and when turning the button of this component to the right, the speed with which the LED flashes is increased, and the speed with which the LED flashes is decreased by turning the button of the potentiometer to the left.*
 
 *The speed at which the LED will flash depends on the value read in the fraction in the analogRead() function*
 
@@ -16,3 +16,5 @@
   ##### 1 - Resistor 220 Ohms
   ##### 1 - Potenciometer 10k Ohms (Model Trimpot)
   ##### Jumpers
+  
+  ![gif_potenciometer](https://user-images.githubusercontent.com/97117365/194763743-951e1d41-3b60-4b35-ac35-d35b145d4d81.gif)
