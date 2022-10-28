@@ -7,10 +7,10 @@
 *The illustration attached below further clarifies the purpose of the exercise.*
 
 #### Components
-   #### 1 - Arduino Uno
-   #### 1 - Protoboard
-   #### 1 - Led 5mm
-   #### 1 - Resistor 330 Ohms
-   #### 1 - Resistor 10K Ohms
-   #### 1 - Fotoresistor
-   #### Jumpers
+   ##### 1 - Arduino Uno
+   ##### 1 - Protoboard
+   ##### 1 - Led 5mm
+   ##### 1 - Resistor 330 Ohms
+   ##### 1 - Resistor 10K Ohms
+   ##### 1 - Fotoresistor
+   ##### Jumpers
