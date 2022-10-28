@@ -14,3 +14,5 @@
    ##### 1 - Resistor 10K Ohms
    ##### 1 - Fotoresistor
    ##### Jumpers
+   
+   ![gif_photoresistor](https://user-images.githubusercontent.com/97117365/198593358-503fc88f-0414-452d-9420-b753e905a3be.gif)
